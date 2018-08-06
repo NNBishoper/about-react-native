@@ -16,3 +16,17 @@
   - React只会刷新部分界面，不会整个界面刷新。
   - 因为React独创了Virtual DOM机制。Virtual DOM是一个存在于内存中的JavaScript对象，它与DOM是一一对应的关系，当界面发送变化时，React会利用DOM Diff算法，把有变化的DOM进行刷新.
 - React是采用JSX语法，一种JS语法糖，方便快速开发。
+
+### Native
+
+想要了解Native是什么，需要了解下开发App有哪些开发模式：
+
+- Native App
+
+- Web App
+
+- Hybrid App
+
+- Weex
+
+- React Native
